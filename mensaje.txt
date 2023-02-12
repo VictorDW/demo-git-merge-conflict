@@ -1,8 +1,11 @@
-Hola mundo caramelo
+
+hola mundo de fresa
 adios venus
 
 linea1
 linea2
 
+
 lineax
 lineay
+ 
