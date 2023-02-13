@@ -1,6 +1,5 @@
 
-
-hola mundo de piruleta
+Hola mundo, esto es una prueba
 adios venus
 
 linea1
